@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python ,HTML,CSS,JS**
 
-- 📫 How to reach me **dimuthkaru4@gmail.com**
+- 📫 How to reach me **dimuthnova2i@gmail.com**
 
 - ⚡ Fun fact **Part Time coder and Full Gym Rat**
 
