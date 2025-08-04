@@ -55,24 +55,6 @@
 
 ---
 
-### 📚 Publications
-
-- **Vision-Based Airbag Deployment System** – MERCon 2025  
-- **Driving Safety Innovation: ML-Powered Airbag Systems** – 8th IRCSCSE  
-
----
-
-### 🏅 Experience
-
-**IFS Sri Lanka**  
-*Undergraduate Trainee Software Engineer*  
-Jul 2023 – Jul 2024  
-- Resolved 40+ client-reported issues in IFS Cloud using Angular/TypeScript.
-- Built 15+ reusable UI components and improved UX.
-- Increased test coverage to 90% using Jest & Cypress.
-- Ensured high-quality releases across 12+ validation cycles.
-
----
 
 ### 🧠 Relevant Coursework
 
